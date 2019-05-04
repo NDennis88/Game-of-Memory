@@ -1,7 +1,7 @@
-import React from "react";
+import React from "./node_modules/react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import friends from "./friends.json";
+import friends from "./friends.json.js";
 // import "./App.css";
 
 class App extends React.Component {
