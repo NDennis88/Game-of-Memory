@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Brandon Stark",
+    "image": "https://pbs.twimg.com/media/DGHbIOfXYAAIBGK.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Cersei Lannister",
+    "image": "https://media1.popsugar-assets.com/files/thumbor/0uctHwtXoWryU_TOqzLC6olGpMw/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/04/24/826/n/1922283/378ee3875cc0b0049b84a9.68728384_5f8f248d9a5dfbefe114c63092d035e6b3392d40130c5e87aa865f91eb78f50b/i/Cersei-Dies-During-Childbirth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Night King",
+    "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1f/Night_King_BTW.jpg/revision/latest?cb=20171013162809",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Jon Snow",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jon-snow-game-of-thrones-season-8-episode-1-sec-1555086224.jpg?crop=1.00xw:0.668xh;0,0.0369xh&resize=980:*",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Daenerys Targaryen",
+    "image": "https://media.beliefnet.com/~/media/photos-with-attribution/entertainment/tv/galleries/game%20of%20thrones/daenerys-targaryen_credit-hbo.jpg?as=1&w=400",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Khal Drogo",
+    "image": "https://images.hellogiggles.com/uploads/2016/06/14003242/khal.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Jamie Lanester",
+    "image": "https://media1.popsugar-assets.com/files/thumbor/6Gc-vKwrDZia8nUs06X65j_1SJ4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/04/24/826/n/1922283/86631cd85cc0b005ec4c13.49965319_1586a503745b43223b0e85a094447bc8fb1cd55c0b0f9645c2ef35d6714383bf/i/Jaime-Lannister-Kills-Cersei.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Arya Stark",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/58656819_1087069838143675_4852314945620017152_n.jpg?_nc_cat=1&_nc_ht=scontent-sjc3-1.xx&oh=ac28c06e427e0be653fb86dfd657170c&oe=5D68CE9E",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Sansa Stark",
+    "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/31/1501702831-got5.jpg?crop=0.665xw:0.997xh;0.250xw,0.00259xh&resize=980:*",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Brienne of Tarth",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/brienne-game-of-thrones-season-8-1551813207.jpg?crop=1.00xw:0.891xh;0,0.0753xh&resize=980:*",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Samwell Tarly",
+    "image": "http://tribzap2it.files.wordpress.com/2014/03/game-of-thrones-season-4-sam.jpg?w=315&h=318&zoom=2",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Sandor Clegan",
+    "image": "https://s3.amazonaws.com/sr-application/images/pingpongrecruits/2018/7/55_270121_hound.jpg",
+    "clicked": false
+  }
+]
